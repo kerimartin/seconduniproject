@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">SecondProject</string>
+    <string name="app_name">Speedometer</string>
+    <string name="text_view_speedometer">0 km/h</string>
 </resources>
