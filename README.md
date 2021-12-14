@@ -1,2 +1,2 @@
 # seconduniproject
-Speedometer project for university.
+Speedometer project for class.
